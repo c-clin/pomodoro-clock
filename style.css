@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.time-length {
+    text-align: center;
+    display: inline-block;
+    width: 45%;
+    margin: 0 auto;
+}
+
+.time-length h3 {
+    display: inline-block;
+}
+
+.session {
+    text-align: center;
+}
